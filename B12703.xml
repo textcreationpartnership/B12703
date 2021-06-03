@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hauing after some time spent in setling the politique affaires of this realme, of late bestowed no small labour in composing certaine differences wee found among our cleargie about rites and ceremonies heretofore established in this Church of England, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12703</idno><idno type="EEBO-CITATION">99892759</idno>
+  <idno type="VID">187130</idno>
+  <idno type="EEBO-PROQUEST">2240927265</idno>
+  
+            <idno type="STC">STC 8343</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[34]</idno>
+            <idno type="PROQUEST">ocm99892759</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892759e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187130)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hauing after some time spent in setling the politique affaires of this realme, of late bestowed no small labour in composing certaine differences wee found among our cleargie about rites and ceremonies heretofore established in this Church of England, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1603. [i.e. 1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Requiring departure of all Jesuites and seminary priests by 19 March. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Clergy --  Early works to 1800.</term>
+               <term type="corporate_name">Jesuits --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187130:1"/>
+            <head>❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Auing after some time spent in setling the politique</hi> affaires of this Realme, of late bestowed no small labour in composing cer<g ref="char:EOLhyphen"/>taine differences Wee found among our Cleargie about Rites and Ceremo<g ref="char:EOLhyphen"/>nies heretofore established in this Church of England, and reduced the same to such an Order and forme, as Wee doubt not but euery spirit that is ledde onely with Pietie, and not with Humor, shalbe therein satisfied: It appea<g ref="char:EOLhyphen"/>red vnto Vs in the debating of those matters, that a greater contagion to our Religion, then could proceed from those light differences, was imminent by persons common Enemies to them both, Namely the great number of Priests both Seminaries and Iesuits aboun<g ref="char:EOLhyphen"/>ding in this Realme, aswell of such as were here before our comming to this Crowne, as of such as haue resorted hither since, vsing their functions and professions with greater libertie, then heretofore they durst haue done, partly vpon a vaine confidence of some Innouation in matters of Religion to be done by Vs, which Wee neuer intended, nor gaue any man cause to expect, &amp; partly vpon the assurance of our generall Pardon, granted according to the custome of our Progenitors at our Coronation, for of<g ref="char:EOLhyphen"/>fences past in the dayes of the late Queene, which Pardons many of the said Priests haue procured vn<g ref="char:EOLhyphen"/>der Our great Seale, and holding themselues thereby free from the danger of the Lawes, doe with great audacitie exercise all Offices of their profession, both saying Masses, perswading our Subiects from the Religion established, and reconciling them to the Church of Rome, and by consequence sedu<g ref="char:EOLhyphen"/>cing them from the true perswasion, which all Subiects ought to haue of their duetie and obedience to Vs. Wherefore, forasmuch as by way of prouidence to preserue their people from being corrupted in Religion, pietie and obedience, is not the least part of Royall duetie, Wee hold our selfe obliged both in conscience and in wisdome, to vse all good meanes to keepe our Subiects from being infected with su<g ref="char:EOLhyphen"/>perstitious opinions in matter of Religion, which are not onely pernitious to their owne soules, but the ready way and meanes to corrupt their duetie and allegiance, which cannot be any way so surely performed, as by keeping from them the ministers and instruments of that Infection, which are the Priests of all sorts ordained in forraine parts, by authoritie prohibited by the Lawes of this land, Con<g ref="char:EOLhyphen"/>cerning whom therefore We haue thought it fit to publish to all our Subiects this open declaration of our pleasure. That where there be of Priests at this present within our kingdome, be they Regular or without Rule, diuers sorts, some in prison, some at libertie, and of both, some hauing obtained our Par<g ref="char:EOLhyphen"/>don vnder our great Seale, and some hauing no such Pardon: And againe some that were here be<g ref="char:EOLhyphen"/>fore Our comming into this Realme, and some commen hither since: For all such as are in prison We haue taken order that they shall be shipped at some conuenient Port, and sent out of our Realme as soone as possibly may be, with commandement not to returne againe into any part of our Dominions, without our Licence obtained, vpon paine and perill of the Lawes being here in force against them, And for all others who are at libertie, whether hauing sued out our Pardon or not, which Wee doe ad<g ref="char:EOLhyphen"/>uertise them and all our Subiects, that extending onely to matters done before the death of the late Queene, doeth not exempt any Priest from the danger of the Law for his abode here since Our suc<g ref="char:EOLhyphen"/>cession to the Crowne aboue the time by the Statute limited.</p>
+            <p>Wee doe hereby will and command all maner of Iesuits, Seminaries, and other Priests whatso<g ref="char:EOLhyphen"/>euer, hauing Ordination from any authoritie by the Lawes of this Realme prohibited, to take notice That our Pleasure is, that they doe before the nineteenth day of March next ensuing the date hereof, depart foorth of our Realme and Dominions, And that for that purpose it shalbe lawfull to all Offi<g ref="char:EOLhyphen"/>cers of our Ports, to suffer the sayd Priests to depart from thence into any Forreine parts, betweene
+<pb facs="tcp:187130:2"/>this and the sayd nineteenth day of March: Admonishing and assuring all such Iesuits, Semina<g ref="char:EOLhyphen"/>ries, and Priests of what sort soeuer, That if any of them shall be after the said nineteenth day taken within this Realme or any our Dominions, or departing now vpon this our Pleasure signified, shall hereafter returne into this Realme or any our Dominions againe, that they shalbe left to the penaltie of the Lawes here being in force concerning them, without hope of any fauor or remission from Vs.</p>
+            <p>Wherefore We will and command all Archbishops, Bishops, Lieutenants, Iustices of Peace, and all other our Officers and Ministers whatsoeuer, to be vigilant and carefull after the said nineteenth day of March past, to doe their duties and diligence in discouering and apprehending of all Priests that shall remaine here contrary to this our declaration. Which though perhaps it may seeme to some to presage a greater seueritie towards that sort of our Subiects, who differing in their profession from the Religion by Lawe established, call themselues <hi>Catholikes,</hi> then by our proceedings with them hi<g ref="char:EOLhyphen"/>therto we haue giuen cause to expect: Yet doubt we not, but that when it shall be considered with in<g ref="char:EOLhyphen"/>different Iudgement, what causes haue mooued vs to vse this prouidence against the sayde Iesuits, Seminaries, and Priests, all men will iustifie vs therein. For to whome is it vnknowen, into what perill our Person was like to be drawen, and our Realme vnto confusion not many moneths since, by a Conspiracie first conceiued by persons of that sort, who hauing preuailed with some, had vndertaken to drawe multitudes of others to assist the same, by the authoritie of their perswasions and motiues grounded chiefly vpon matter of Conscience and Religion? Which when other Princes shall duly ob<g ref="char:EOLhyphen"/>serue, Wee assure our selues they will no way conceiue that this alteration groweth from any change of disposition now more exasperate then heretofore, but out of necessary prouidence to preuent perils otherwise ineuitable, considering that their absolute submission to Forreine Iurisdiction at their first taking of Orders, doeth leaue so conditionall an authoritie to Kings ouer their Subiects, as the same power by which they were made, may dispense at pleasure with the straitest band of loyaltie and loue betweene a King and his People. Amongst which Forreine powers, although wee ac<g ref="char:EOLhyphen"/>knowledge our selues personally so much beholding to the now Bishop of <hi>Rome</hi> for his kinde offices and priuate temporall cariage towards vs in many things, as wee shall be euer ready to requite the same towards him, (as Bishop of <hi>Rome</hi> in state and condition of a Secular Prince) Yet when wee consider and obserue the course and claime of that Sea, Wee haue no reason to imagine, that Princes of our Religion and Profession, can expect any assurance long to continue, vnlesse it might be assented by mediation of other Princes Christian, that some good course might be taken (by a generall Coun<g ref="char:EOLhyphen"/>cell free and lawfully called) to plucke vp those roots of dangers and iealousies which arise for cause of Religion as well betweene Princes and Princes, as betweene them and their Subiects, and to make it manifest that no State or Potentate either hath or can challenge power to dispose of earthly King<g ref="char:EOLhyphen"/>domes or Monarchies, or to dispense with Subiects obedience to their naturall Soueraignes: In which charitable Action, there is no Prince liuing, that will be readier then Wee shall be to concurre euen to the vttermost of our power, not onely out of particular disposition to liue peaceably with all States and Princes of Christendome, but because such a setled amitie might (by an vnion in Religion) be established among Christian Princes, as might enable vs all to resist the common Enemie.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Pallace of Westminster <date>the xxij. day of February, in the first yeere of our Reigne of England, France and Ireland, and of Scotland the seuen and thirtieth.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most excellent Maiestie. ANNO DOM. 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
